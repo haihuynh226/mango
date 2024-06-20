@@ -1,6 +1,6 @@
-baseURL = 'https://haihuynh226.github.io/'
+baseURL = 'https://haihuynh226.github.io/mango/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'MangoAds'
 theme = 'PaperMod'
 [menu]
 
