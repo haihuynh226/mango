@@ -29,7 +29,9 @@ Mục tiêu trong quản lý nhân sự hiệu quả là gì?
 
 Mục tiêu trong quản lý nhân sự hiệu quả là gì?
 
->>> Xem thêm: Bí quyết giao việc quản lý nhân sự hiệu quả: Giảm 50% áp lực công việc
+Xem thêm: Bí quyết giao việc quản lý nhân sự hiệu quả: Giảm 50% áp lực công việc
+
+![Example Image](/mango/img/img5.png "This is an example image")
 
 2.2 Để vận dụng hiệu quả thì làm thế nào?
 Cách thiết lập: Quản lý và nhân viên cùng nhau thảo luận và xác định những mục tiêu cụ thể trong vòng một phút. Sử dụng các nguyên tắc như SMART trong việc phân tích và xác định mục tiêu cụ thể và chính xác vấn đề. Mục tiêu này phải đủ ngắn để có thể hiểu và ghi nhớ dễ dàng.
@@ -47,7 +49,7 @@ Quản lý cần phải xác định rõ ràng nhiệm vụ và kỳ vọng củ
 2.3 Thực tế có thể áp dụng như thế nào?
 Các tình huống thực tế: Một nhân viên bán hàng có thể đặt mục tiêu mỗi ngày gọi điện cho 5 khách hàng mới thành công (khách hàng bắt máy và quan tâm đến chương trình công ty).
 Câu chuyện thành công: Nhiều công ty đã áp dụng nguyên tắc này để giúp tăng cường hiệu suất làm việc và cải thiện sự hài lòng của nhân viên trong doanh nghiệp của mình. Bên cạnh đó, nhờ giảm thiểu khối lượng công việc theo phương pháp tâm lý học mà nhân viên hạnh phúc hơn trong công việc, áp lực được đẩy lùi, góp phần gắn kết hơn với công ty.
->>> Xem thêm: OKR, KPI và MBO: “Bộ ba quyền lực” thúc đẩy hiệu suất làm việc
+Xem thêm: OKR, KPI và MBO: “Bộ ba quyền lực” thúc đẩy hiệu suất làm việc
 
 3. Một phút khen ngợi để khơi dậy động lực cho nhân viên bạn nên thử
 3.1 Khái niệm và lý thuyết
@@ -72,7 +74,7 @@ Bước 3: Khen ngợi chân thành và tự nhiên
 
 Thể hiện sự chân thành qua lời nói, cử chỉ và biểu cảm khuôn mặt. Lời khen nên xuất phát từ sự vui mừng khi nhân sự đạt được những thành tựu đầu tiên. Có yếu tố chân thành muốn tốt cho sự phát triển của nhân viên.
 Duy trì giao tiếp bằng mắt và thể hiện sự quan tâm thực sự đến nhân viên. Bên cạnh lời khuyên trực tiếp, có thể nhắc lại những thành tựu lúc trước và nhắc nhở nhân viên cố gắng hơn nữa trong tương lai, thể hiện bạn luôn ghi nhận những sự thay đổi tích cực của nhân viên.
->>> Xem thêm: Định hướng hay thao túng: Nghệ thuật tinh tế trong quản lý nhân sự.
+Xem thêm: Định hướng hay thao túng: Nghệ thuật tinh tế trong quản lý nhân sự.
 
 3.3 Các tình huống và câu chuyện từ bí quyết khen ngợi một phút
 Các tình huống thực tế: Khi một nhân viên hoàn thành dự án đúng hạn với chất lượng cao, quản lý nên khen ngợi ngay lập tức. Mong muốn hoàn thành công việc đúng hạn và đạt hiệu suất cao cũng xuất phát từ chính nhân viên muốn được khen ngợi và ghi nhận từ cấp trên. Việc được ghi nhận thành quả, giúp họ thỏa mãn mong muốn và nảy sinh nhu cầu cấu hiến hơn nữa.
@@ -125,7 +127,7 @@ Tiết kiệm thời gian và công sức cho việc quản lý, theo dõi và �
 Cải thiện hiệu suất làm việc:
 Khi quản lý sử dụng phương pháp “một phút” sẽ giúp nhân viên hiểu được tầm quan trọng của công việc từ sự “khiển trách một phút” và “khen ngợi một phút” để tập trung vào những nhiệm vụ quan trọng, từ đó nâng cao hiệu suất công việc. Bên cạnh đó cũng tăng cường sự gắn kết và trách nhiệm của nhân viên đối với công việc chung. Góp phần thúc đẩy sáng tạo và đổi mới trong công ty.
 
->>> Xem thêm: 9 yếu tố giúp nâng cao hiệu suất làm việc cho doanh nghiệp
+Xem thêm: 9 yếu tố giúp nâng cao hiệu suất làm việc cho doanh nghiệp
 
 Tạo dựng môi trường làm việc tích cực:
 Giúp xây dựng mối quan hệ tốt đẹp, tin tưởng và tôn trọng giữa quản lý và nhân viên. Tạo ra môi trường làm việc cởi mở, khuyến khích giao tiếp và hợp tác. Từ đó, thúc đẩy tinh thần hứng thúc làm việc, tạo động lực cống hiến của nhân viên và mang đến sự hài lòng của nhân viên đối với doanh nghiệp.
@@ -137,7 +139,7 @@ Giúp nhân viên hiểu rõ mục tiêu công việc và tập trung vào nhữ
 Cải thiện mối quan hệ với quản lý
 Nhân viên cảm thấy gần gũi, thiện cảm với quản lý, sẽ có mong muốn chủ động tạo dựng mối quan hệ tin tưởng và tôn trọng với quản lý. Từ đó luôn trong trạng thái sẵn sàng nhận những đánh giá về công việc và phản hồi kịp thời, đảm bảo hiệu suất công việc luôn tốt nhất. Ngoài ra, có cơ hội được khen ngợi và ghi nhận thành tích khi hoàn thành tốt và xuất sắc công việc được giao.
 
->>> Xem thêm: 10 cách nâng cao kỹ năng giao tiếp với sếp tại nơi làm việc
+Xem thêm: 10 cách nâng cao kỹ năng giao tiếp với sếp tại nơi làm việc
 
 Phát triển bản thân và tiến bộ trong sự nghiệp
 Từ những sự động viên, khích lệ cùng với phê bình sai phạm, giúp nhân viên nhận thức được điểm mạnh và điểm yếu bản thân để có hướng cải thiện. Nhờ thế nào, học hỏi và phát triển nâng cao kỹ năng giao tiếp và hợp tác trong công việc là lợi ích mang lại cho nhân viên khi quản lý biết cách sử dụng lời khen và phê bình đúng cách.
