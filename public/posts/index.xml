@@ -4,6 +4,11 @@
     <title>Posts on MangoAds</title>
     <link>http://localhost:1313/mango/posts/</link>
     <description>Recent content in Posts on MangoAds</description>
+    <image>
+      <title>MangoAds</title>
+      <url>http://localhost:1313/mango/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/mango/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- 0.127.0</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 20 Jun 2024 11:58:59 +0700</lastBuildDate>
