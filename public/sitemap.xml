@@ -2,10 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:60634/categories/</loc>
+    <loc>http://localhost:1313/mango/posts/post2/</loc>
+    <lastmod>2024-06-20T11:58:59+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:60634/</loc>
+    <loc>http://localhost:1313/mango/posts/post3/</loc>
+    <lastmod>2024-06-20T11:58:59+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:60634/tags/</loc>
+    <loc>http://localhost:1313/mango/</loc>
+    <lastmod>2024-06-20T11:58:59+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mango/posts/post10/</loc>
+    <lastmod>2024-06-20T11:58:59+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mango/posts/post4/</loc>
+    <lastmod>2024-06-20T11:58:59+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mango/posts/post5/</loc>
+    <lastmod>2024-06-20T11:58:59+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mango/posts/post6/</loc>
+    <lastmod>2024-06-20T11:58:59+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mango/posts/post7/</loc>
+    <lastmod>2024-06-20T11:58:59+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mango/posts/post8/</loc>
+    <lastmod>2024-06-20T11:58:59+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mango/posts/post9/</loc>
+    <lastmod>2024-06-20T11:58:59+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mango/posts/</loc>
+    <lastmod>2024-06-20T11:58:59+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mango/posts/first/</loc>
+    <lastmod>2024-06-20T11:58:59+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mango/archives/</loc>
+  </url><url>
+    <loc>http://localhost:1313/mango/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/mango/tags/</loc>
   </url>
 </urlset>
